@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ultimatenf
+- 👋 Hi, I’m Nils
 - 👀 I’m interested in Python, Maschine Learning and R
-- 🌱 I’m currently learning many things
+- 🌱 I’m currently learning Time Series Analysis
 - 📫 How to reach me fink.nils1@web.de
 
 <!---
